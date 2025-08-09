@@ -27,4 +27,4 @@ gtypist kten.typ
 
 ## Custom Drills
 
-Eventually, I will include some custom drills for gtypist using ChatGPT. Haven't figured out the correct syntax yet.
+Eventually, I will include some workin custom drills for gtypist using ChatGPT. Haven't figured out the correct syntax yet.
