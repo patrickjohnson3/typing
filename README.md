@@ -12,7 +12,7 @@ On Ubuntu this can be installed with:
 sudo apt install gtypist
 ```
 
-I find that it helps to increase the size of the terminal (in then one I am using is done with `Ctrl + +`. I did that 4 times. Doing it 5 times makes gtypist barf out.
+I find that it helps to increase the size of the terminal (in the one I am using this is done with `Ctrl + +`. I did that 4 times. Doing it 5 times makes gtypist barf out.
 
 ## Custom Drills
 
