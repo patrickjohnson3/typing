@@ -27,4 +27,6 @@ gtypist kten.typ
 
 ## Custom Drills
 
-Eventually, I will include some working custom drills for gtypist using ChatGPT. Haven't figured out the correct syntax yet.
+Will include some working custom drills for gtypist using ChatGPT. Haven't figured out the correct syntax yet.
+
+The only one that works now is `ktus_2024.typ`. This has been converted from the most recent KTouch. The US drill was last modified in 2024.
