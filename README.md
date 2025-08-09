@@ -11,8 +11,19 @@ On Ubuntu this can be installed with:
 ```
 sudo apt install gtypist
 ```
-
 I find that it helps to increase the size of the terminal (in the one I am using this is done with `Ctrl + +`. I did that 4 times. Doing it 5 times makes gtypist barf out.
+
+## Included Drills
+
+I'm starting with the default gtypist drills. Not sure if I will continue with them.
+
+Gtypist includes drills from [KTouch](https://apps.kde.org/ktouch/) 1.6.
+
+Run the English drill like this:
+
+```
+gtypist kten.typ
+```
 
 ## Custom Drills
 
